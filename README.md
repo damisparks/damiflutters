@@ -1,2 +1,2 @@
-# damireacts
-Documenting my React Framework exploration.
+# Damiflutters
+Documenting my Flutter development experience. 
