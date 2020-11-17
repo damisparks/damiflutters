@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9620f2c5-2b47-4db4-b643-0a328094f171" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1kQFcTWaGqQlPHbVYLAW6JK1Wzx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="emulator" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9620f2c5-2b47-4db4-b643-0a328094f171" name="Default Changelist" comment="" />
+      <created>1605624987939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605624987939</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="28" width="1565" height="939" key="#Intentions" timestamp="1605642366384">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="0" y="28" width="1565" height="939" key="#Intentions/0.0.1680.1050@0.0.1680.1050" timestamp="1605642366384" />
+    <state x="231" y="209" width="1200" height="716" key="AVDManager" timestamp="1605637179668">
+      <screen x="0" y="25" width="1680" height="956" />
+    </state>
+    <state x="231" y="209" width="1200" height="716" key="AVDManager/0.25.1680.956@0.25.1680.956" timestamp="1605637179668" />
+    <state width="1638" height="147" key="GridCell.Tab.0.bottom" timestamp="1605644856174">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="147" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1605644856174" />
+    <state width="1358" height="241" key="GridCell.Tab.0.bottom/0.25.1680.956@0.25.1680.956" timestamp="1605637158213" />
+    <state width="1638" height="147" key="GridCell.Tab.0.center" timestamp="1605644856173">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="147" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1605644856173" />
+    <state width="1358" height="241" key="GridCell.Tab.0.center/0.25.1680.956@0.25.1680.956" timestamp="1605637158212" />
+    <state width="1638" height="147" key="GridCell.Tab.0.left" timestamp="1605644856172">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="147" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1605644856172" />
+    <state width="1358" height="241" key="GridCell.Tab.0.left/0.25.1680.956@0.25.1680.956" timestamp="1605637158210" />
+    <state width="1638" height="147" key="GridCell.Tab.0.right" timestamp="1605644856173">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="147" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1605644856173" />
+    <state width="1358" height="241" key="GridCell.Tab.0.right/0.25.1680.956@0.25.1680.956" timestamp="1605637158212" />
+    <state x="428" y="250" key="IDE.errors.dialog" timestamp="1605636551656">
+      <screen x="0" y="25" width="1680" height="956" />
+    </state>
+    <state x="428" y="250" key="IDE.errors.dialog/0.25.1680.956@0.25.1680.956" timestamp="1605636551656" />
+    <state x="169" y="174" key="SettingsEditor" timestamp="1605636800804">
+      <screen x="0" y="25" width="1680" height="956" />
+    </state>
+    <state x="169" y="174" key="SettingsEditor/0.25.1680.956@0.25.1680.956" timestamp="1605636800804" />
+  </component>
+</project>

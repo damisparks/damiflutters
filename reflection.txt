@@ -1,0 +1,33 @@
+# Dami Flutters
+Consider it as my Flutter documentation. 
+
+So, I started learning Flutter on 16 November 2020.
+
+Why Flutters, 
+Interesting question to ask. 
+I heard and read it is a framework that gives the power of having your application on different 
+platforms keeping a single codebase. I find it cool.
+
+Why cool ? 
+well i do not have to learn multiple languages for different platforms but instead learn one. 
+I see it as a Google Translator or DeepL for application development. Does that makes ? 
+Maybe not. To me it is logically and common sensible.
+
+
+So today, November 17, 2020. 
+I configured my laptop for Flutter development. 
+
+I followed along some codelabs exercises. 
+1st one : 
+Write Your First Flutter App, part 1
+Link here : https://developers.google.com/codelabs/first-flutter-app-pt1?continue=https%3A%2F%2Fdevelopers.google.com%2Flearn%2Fpathways%2Fintro-to-flutter%3Fhl%3Den%23codelab-https%3A%2F%2Fdevelopers.google.com%2Fcodelabs%2Ffirst-flutter-app-pt1&hl=en#6
+
+Write Your First Flutter App, part 2
+Link here : https://developers.google.com/codelabs/first-flutter-app-pt2#0
+
+After this exercises I feel excited to explore more. 
+Stay updated as i share my story.
+
+
+
+ 
